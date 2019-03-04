@@ -1,0 +1,20 @@
+.nav-manu{
+    margin-top: 0;
+    background: lightgray;
+    position: absolute;
+    width: 97%;
+    color:black;
+}
+
+.nav-manu li {
+    display: inline-block;
+    font-size: xx-large;
+}
+
+.menu-ghassan {
+    float: left;
+}
+
+.menu-kuo-pao {
+    float: right;
+}

@@ -9,7 +9,10 @@
 }
 
 .App-header {
-  background-color: #282c34;
+//background-color: #282c34;
+  /*background: url(https://ak6.picdn.net/shutterstock/videos/6898396/thumb/1.jpg);*/
+  background: url(https://media1.tenor.com/images/b646e28dbe1a20f117a34ccaf3a5f91e/tenor.gif?itemid=4990164) ;
+  background-size: cover;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -28,6 +31,5 @@
     transform: rotate(0deg);
   }
   to {
-    transform: rotate(360deg);
-  }
-}
+    transform: rotate(90deg);
+  }}
